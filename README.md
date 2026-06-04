@@ -1,7 +1,7 @@
 # COVID-19 Data Exploration | SQL
 
 ## Project Overview
-A SQL data exploration project analysing global COVID-19 data including 
+An SQL data exploration project analysing global COVID-19 data including 
 infection rates, death percentages, and vaccination progress across countries 
 and continents.
 
